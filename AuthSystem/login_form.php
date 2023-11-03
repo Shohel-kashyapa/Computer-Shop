@@ -29,7 +29,7 @@ if ($result->num_rows === 1) {
             exit;
         } else {
 //            echo "user";
-            header("Location: ../index.php");
+            header("Location: ..index.html");
             exit;
         }
         exit;

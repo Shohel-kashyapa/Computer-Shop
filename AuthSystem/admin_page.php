@@ -31,7 +31,7 @@ session_start();
          <p>admin page</p>
          <a href="login.php" class="btn">login</a>
          <a href="register.php" class="btn">register</a>
-         <a href="../index.php" class="btn">register</a>
+         <a href="../index.html" class="btn">register</a>
          <a href="logout.php" class="btn">logout</a>
 
      </div>
