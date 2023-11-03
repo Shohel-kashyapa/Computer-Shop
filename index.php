@@ -36,7 +36,7 @@
 
       <div class="profile">
         <img src="img/profile.png" alt="" />
-        <span>Name name</span>
+        <span>Login / Register</span>
         <box-icon name="caret-down"></box-icon>
       </div>
     </header>
