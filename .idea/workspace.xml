@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/AuthSystem/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthSystem/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/admin_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/admin_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/register_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/register_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/register_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/user_from.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthSystem/user_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/AuthSystem/user_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shohel-kashyapa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="82ffaf72-e7b9-4dee-8747-e810bf2e1258" />
+        <option name="url" value="https://github.com/Shohel-kashyapa/Computer-Shop.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.9\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Vmi9Nfrl4re8esfGNS25jKuXWl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/xampp/htdocs/Computer-Shop",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="" />
+      <created>1695447504978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695447504978</updated>
+      <workItem from="1695447505988" duration="52000" />
+      <workItem from="1695447568006" duration="611000" />
+      <workItem from="1695471171443" duration="2355000" />
+      <workItem from="1695476225398" duration="1774000" />
+      <workItem from="1697609801095" duration="167000" />
+      <workItem from="1698169301838" duration="193000" />
+      <workItem from="1698432092230" duration="35000" />
+      <workItem from="1698560698352" duration="48000" />
+      <workItem from="1698567091947" duration="794000" />
+      <workItem from="1698568445280" duration="253000" />
+      <workItem from="1698569717786" duration="80000" />
+      <workItem from="1698569926541" duration="597000" />
+      <workItem from="1698572272738" duration="6346000" />
+      <workItem from="1698600655097" duration="1073000" />
+      <workItem from="1698673405033" duration="2056000" />
+      <workItem from="1698692698893" duration="3354000" />
+      <workItem from="1698731054571" duration="2325000" />
+      <workItem from="1698857963467" duration="2122000" />
+      <workItem from="1698863139501" duration="3089000" />
+      <workItem from="1698905549163" duration="2828000" />
+    </task>
+    <task id="LOCAL-00001" summary="add side bar">
+      <option name="closed" value="true" />
+      <created>1695471698914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695471698914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="admin page">
+      <option name="closed" value="true" />
+      <created>1698570307959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698570307959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="auth update">
+      <option name="closed" value="true" />
+      <created>1698578414183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698578414183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init commit css">
+      <option name="closed" value="true" />
+      <created>1698578467136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698578467136</updated>
+    </task>
+    <task id="LOCAL-00005" summary="register form done">
+      <option name="closed" value="true" />
+      <created>1698601680638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698601680638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="loging page done">
+      <option name="closed" value="true" />
+      <created>1698674880878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698674880878</updated>
+    </task>
+    <task id="LOCAL-00007" summary="backend">
+      <option name="closed" value="true" />
+      <created>1698694976719</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698694976719</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1698734179963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698734179963</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add side bar" />
+    <MESSAGE value="admin page" />
+    <MESSAGE value="auth update" />
+    <MESSAGE value="init commit css" />
+    <MESSAGE value="register form done" />
+    <MESSAGE value="loging page done" />
+    <MESSAGE value="backend" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
