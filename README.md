@@ -21,5 +21,5 @@ Welcome to the TECH HAVEN COMPUTER SHOP's E-Commerce Web Application repository!
 ## Technologies Used
 
 - 🌐 **Front-End:** HTML, CSS, JavaScript
-- 🧰 **Back-End:** PHP
+- 🧰 **Back-End:** PHP, AJAX
 - 🗄️ **Database:** MySQL
