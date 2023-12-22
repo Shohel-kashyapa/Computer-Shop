@@ -31,7 +31,7 @@ html {
   --green-color: #3cb815;
   --light-green-color: #c0eb7b;
   --orange-color: #ff7e00;
-  --light-orange-color: #f75fld;
+  --light-orange-color: #ff8800;
   --text-color: #1a2428;
   --bg-color: #fff;
 }
@@ -185,6 +185,75 @@ header {
     height: 400px;
   }
 }
+
+.btn1{
+  padding: 0.6rem 1rem;
+  background: var(--green-color);
+  color: var(--bg-color);
+  font-weight: 400;
+  border-radius: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 0.5rem;
+  max-width: 160px;
+}
+
+.btn1 .bx{
+  padding: 4px;
+  background: var(--bg-color);
+  color: var(--text-color);
+  border-radius: 1rem;
+  font-size: 20px;
+  margin: auto;
+}
+
+.btn1:hover{
+  background: var(--light-orange-color);
+  transition: 0.2s ease;
+}
+
+.heading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading h1{
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.heading span{
+  color: var(--green-color);
+}
+
+.categories{
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about{
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(21rem, auto));
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.about-text span{
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--green-color);
+}
+
+.about-text p{
+  margin: 0.5rem 0 1rem;
+}
+
 
 
 /**/
