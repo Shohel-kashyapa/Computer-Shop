@@ -234,25 +234,30 @@ header {
   margin-right: auto;
 }
 
-.about{
+.about {
   max-width: 968px;
   margin-left: auto;
   margin-right: auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(21rem, auto));
+  grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr)); /* Adjusted column definition */
   align-items: center;
   gap: 1.5rem;
 }
 
-.about-text span{
+.about-img img {
+  width: 100%; /* Make sure the image takes the full width of its container */
+}
+
+.about-text span {
   font-weight: 600;
   text-transform: uppercase;
   color: var(--green-color);
 }
 
-.about-text p{
+.about-text p {
   margin: 0.5rem 0 1rem;
 }
+
 
 .footer {
   max-width: 968px;
