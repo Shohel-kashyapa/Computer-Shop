@@ -342,6 +342,10 @@ header {
   color: var(--green-color);
 }
 
+.copyright{
+  text-align: center;
+  padding: 20px;
+}
 
 
 
