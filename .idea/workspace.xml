@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="init commit">
+    <list default="true" id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="update side menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +124,10 @@
       <workItem from="1704872560229" duration="93000" />
       <workItem from="1704872667730" duration="305000" />
       <workItem from="1704908110783" duration="1914000" />
+      <workItem from="1704912716856" duration="1001000" />
+      <workItem from="1704913738983" duration="859000" />
+      <workItem from="1704914622701" duration="80000" />
+      <workItem from="1704915197777" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="add side bar">
       <option name="closed" value="true" />
@@ -196,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703355493801</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update side menu">
+      <option name="closed" value="true" />
+      <created>1704913648643</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704913648643</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +224,7 @@
     <MESSAGE value="loging page done" />
     <MESSAGE value="backend" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="update side menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="update side menu" />
   </component>
 </project>
