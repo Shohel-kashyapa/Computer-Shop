@@ -75,8 +75,8 @@ header {
 }
 
 .logo {
-  width: 200px; /* Increase the width to make the logo bigger */
-  height: 100px; /* Increase the height to maintain the aspect ratio */
+  width: 220px; 
+  height: 100px; 
   display: flex;
   align-items: center;
   color: var(--text-color);
@@ -104,7 +104,7 @@ header {
 .profile span {
   font-size: 13px;
   font-weight: 500;
-  margin-right: 35px; /* Adjust this value to move it to the left */
+  margin-right: 35px; 
 }
 
 .navbar {
@@ -255,13 +255,13 @@ header {
   grid-template-columns: repeat(
     auto-fit,
     minmax(21rem, 1fr)
-  ); /* Adjusted column definition */
+  ); 
   align-items: center;
   gap: 1.5rem;
 }
 
 .about-img img {
-  width: 100%; /* Make sure the image takes the full width of its container */
+  width: 100%; 
 }
 
 .about-text span {
@@ -282,12 +282,12 @@ header {
   grid-template-columns: repeat(
     auto-fit,
     minmax(150px, auto)
-  ); /* Adjusted minmax value */
+  ); 
   gap: 1.5rem;
   margin-top: 2rem;
   background: #d8bca2;
   border-radius: 0.5rem;
-  padding: 10px; /* Adjusted padding */
+  padding: 10px; 
 }
 
 .footer-box {
@@ -359,7 +359,7 @@ header {
   font-size: 20px;
   color: var(--light-orange-color);
   cursor: pointer;
-  margin-left: -10px; /* Adjust this value to move the arrow inside the box */
+  margin-left: -10px; 
 }
 
 .footer-box form .bxs-envelope {
@@ -374,9 +374,10 @@ header {
 /* menubar */
 
 
+/* Sidebar */
 .sidebar {
   position: fixed;
-  top: 110px;
+  top: 105px;
   left: 0;
   height: 100%;
   width: 260px;
@@ -386,9 +387,11 @@ header {
 }
 
 
+
 .sidebar.close {
   width: 78px;
 }
+
 
 
 .sidebar-list {
@@ -411,14 +414,15 @@ header {
 
 .sidebar-list li .title {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start; 
   align-items: center;
   transition: all 0.5s ease;
   cursor: pointer;
+  padding: 15px;
 }
 
 .sidebar-list li.active .title {
-  background-color: var(--color_Blue);
+  background-color: var(--green-color);
 }
 
 .sidebar-list li.active .bxs-chevron-down {
@@ -433,17 +437,25 @@ header {
 }
 
 .sidebar-list li .title i {
-  height: 50px;
-  min-width: 78px;
+  height: 30px; /* Adjust the height as needed */
+  min-width: 30px; /* Adjust the width as needed */
   text-align: center;
-  line-height: 50px;
+  line-height: 30px; /* Adjust the line-height as needed */
   color: #1a2428;
-  font-size: 20px;
+  font-size: 16px; /* Adjust the font-size as needed */
+  margin-right: 10px; /* Adjust the margin as needed */
 }
+
 .sidebar-list li .title .name {
-  font-size: 18px;
+  font-size: 16px; /* Adjust the font-size as needed */
   font-weight: 400;
   color: #1a2428;
+}
+
+.sidebar-list li .title .link img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px; /* Adjust the margin as needed */
 }
 
 
