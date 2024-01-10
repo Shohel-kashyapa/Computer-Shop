@@ -6,7 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/10-storageIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/11-odIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/12-pwIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/13-moniterIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/14-2177994.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/15-shIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/16-111971_keyboard_512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/17-netCardIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/19-16-usb-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/2-lpIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/20-3312339-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/23-cable-charge-connection-connector-creative-crisp-icon-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/25-01-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/26-Asus Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/27-barber-chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/29-asus-logo-rog-icon-symbol-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/30-077-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/31-Powered_by_ASUS_Black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/33-apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/34-20-064-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/35-1077685.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/36-png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/4-pIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/5-mIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/6-ramIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/7-vgaIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/8-casingIcon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/category/9-coolersIcon-01.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,24 +89,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/wamp64/www/Computer-Shop",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/wamp64/www/Computer-Shop&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,6 +148,10 @@
       <workItem from="1703355276613" duration="3362000" />
       <workItem from="1704786268373" duration="33000" />
       <workItem from="1704786326394" duration="3048000" />
+      <workItem from="1704833754702" duration="35000" />
+      <workItem from="1704833810437" duration="41000" />
+      <workItem from="1704872560229" duration="93000" />
+      <workItem from="1704872667730" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="add side bar">
       <option name="closed" value="true" />
