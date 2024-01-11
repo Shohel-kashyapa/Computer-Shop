@@ -259,8 +259,6 @@ header {
   max-width: 100vw;
   height: 500px;
   margin: auto;
-  margin-top: -80px;
-  margin-left: 260px;
   position: relative;
   overflow: hidden;
 }
@@ -608,11 +606,89 @@ header {
 .desktop-item {
   border: 1px solid #ccc;
   padding: 10px;
-  text-align: center;
+  text-align: left;
+  height: auto;
 }
+
+.desktop-item button {
+  display: flex;
+  margin-top: 10px; 
+  background-color: transparent;
+  border: none;
+  background-color: var(--green-color);
+  cursor: pointer;
+  font-size: inherit;
+  align-items: center;
+  padding: 12px;
+  border-radius: 30px; /* Added 'px' unit to border-radius */
+  transition: color 0.3s ease; /* Added smooth transition for color change */
+  color: var(--bg-color);
+  font-weight: bold;
+}
+
+.desktop-item button:hover {
+  background-color: var(--light-orange-color);
+}
+
+
 
 .product-img {
   max-width: 300px;
   height: 300px;
   object-fit: cover;
+}
+
+#default-home {
+  margin-top: 60px;
+}
+
+
+#cart-body {
+  display: grid;
+  width: 380px;
+  min-height: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.123);
+  z-index: 50;
+  overflow-y: auto; 
+  overflow-x: hidden; 
+  margin-top: 130px;
+  
+}
+
+
+#cart-body .cart-body {
+  display: grid;
+  grid-template-rows: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+.cart-item {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px; 
+  margin-bottom: 10px; 
+  padding: 10px;
+}
+
+.cart-img {
+  height: 100px;
+  width: 100px;
+}
+
+.remove-cart-btn {
+  background: none;
+  border: none;
+  outline: none;
+  padding: 4px;
+  cursor: pointer;
+  background-color: red;
+  color: var(--bg-color);
+  font-weight: bold;
+
 }

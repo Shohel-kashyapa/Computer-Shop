@@ -19,6 +19,8 @@
     <!-- Navbar -->
 
     <header>
+      
+
       <a href="#" class="logo">
         <img src="img/logo.png" alt="Tech Haven Logo"
       /></a>
@@ -34,9 +36,9 @@
 
          <!-- add to cart -->
 
-     <div class="shopping">
+     <div id="cart-button" class="shopping">
       <i class='bx bxs-cart'></i>
-      <span class="quantity">0</span>
+      <span id="quantity" class="quantity">0</span>
      </div>
 
      <div class="cart-list"></div>
@@ -52,11 +54,12 @@
 
       <!-- Profile -->
 
-      <div class="profile">
+      <div id="profile" class="profile">
         <img src="img/profile.png" alt="" />
         <span>Login / Register</span>
         <box-icon name="caret-down"></box-icon>
       </div>
+      
 
     </header>
 
@@ -94,17 +97,17 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="processor-link" class="link">
               <img src="img/category/Processors.png" alt="sidebar-iconss">
               <span class="name">Processor</span>
-            </a>
+            </div>
           </div>
 
         </li>
 
         <li>
           <div class="title">
-            <div href="#" class="link">
+            <div id="motherboards-link" class="link">
               <img src="img/category/motherboards.png" alt="sidebar-iconss">
               <span class="name">Motherboard</span>
             </div>
@@ -114,50 +117,50 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="vga-link" class="link">
               <img src="img/category/vga.png" alt="sidebar-iconss">
               <span class="name">Graphics card(VGA)</span>
-            </a>
+            </div>
           </div>
 
         </li>
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="ram-link" class="link">
               <img src="img/category/ram.png" alt="sidebar-iconss">
               <span class="name">RAM</span>
-            </a>
+            </div>
           </div>
 
         </li>
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="hdd-link" class="link">
               <img src="img/category/HDD.png" alt="sidebar-iconss">
               <span class="name">Storages</span>
-            </a>
+            </div>
           </div>
 
         </li>
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="psu-link" class="link">
               <img src="img/category/psu.png" alt="sidebar-iconss">
               <span class="name">Power supply</span>
-            </a>
+            </div>
           </div>
 
         </li>
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="casing-link" class="link">
               <img src="img/category/casing.png" alt="sidebar-iconss">
               <span class="name">Casing</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -165,10 +168,10 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="fan-link" class="link">
               <img src="img/category/Fan.png" alt="sidebar-iconss">
               <span class="name">Fan</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -176,10 +179,10 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="perip-link" class="link">
               <img src="img/category/K&M.png" alt="sidebar-iconss">
               <span class="name">Peripherals</span>
-            </a>
+            </div>
           </div>
     
         </li>
@@ -187,10 +190,10 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="chair-link" class="link">
               <img src="img/category/chair.png" alt="sidebar-iconss">
               <span class="name">Chairs & Tables</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -204,6 +207,14 @@
     <div class="product-body" id="product_body"></div>
 
     <!-- Products Finish Here -->
+
+    <!-- Cart  -->
+
+    <div id="cart-body">
+      <div id="total-price"></div>
+    </div>
+
+    <!-- Cart -->
 
 
 
@@ -277,32 +288,6 @@
         </div>
       </section>
 
-     </section>
-
-      <!--    &lt;!&ndash;Customer&ndash;&gt;-->
-      <!--    <section class="customers" id="customers">-->
-      <!--      <h2>Why Customer's Love Us?</h2>-->
-      <!--    &lt;!&ndash;Customer Content&ndash;&gt;-->
-      <!--      <div class="customers-container">-->
-      <!--        <div class="box">-->
-      <!--           <i class='bx bxs-quote-alt-left' ></i>-->
-      <!--          <div class="stars">-->
-      <!--            <i class='bx bxs-star'></i>-->
-      <!--            <i class='bx bxs-star'></i>-->
-      <!--            <i class='bx bxs-star'></i>-->
-      <!--            <i class='bx bxs-star'></i>-->
-      <!--            <i class='bx bxs-star-half'></i>-->
-      <!--          </div>-->
-      <!--          <p>qeweqwewq</p>-->
-      <!--          <div class="review-profile">-->
-      <!--            <img src="img" alt="">-->
-      <!--          </div>-->
-      <!--        </div>-->
-      <!--      </div>-->
-
-      <!--    </section>-->
-
-      <!--Footer-->
 
       <section class="footer" id="footer">
         <div class="footer-box">
@@ -352,6 +337,35 @@
         <p>&#169; Shohel_Kashyapa All Right Reserved.</p>
       </div>
     </div>
+
+     </section>
+
+      <!--    &lt;!&ndash;Customer&ndash;&gt;-->
+      <!--    <section class="customers" id="customers">-->
+      <!--      <h2>Why Customer's Love Us?</h2>-->
+      <!--    &lt;!&ndash;Customer Content&ndash;&gt;-->
+      <!--      <div class="customers-container">-->
+      <!--        <div class="box">-->
+      <!--           <i class='bx bxs-quote-alt-left' ></i>-->
+      <!--          <div class="stars">-->
+      <!--            <i class='bx bxs-star'></i>-->
+      <!--            <i class='bx bxs-star'></i>-->
+      <!--            <i class='bx bxs-star'></i>-->
+      <!--            <i class='bx bxs-star'></i>-->
+      <!--            <i class='bx bxs-star-half'></i>-->
+      <!--          </div>-->
+      <!--          <p>qeweqwewq</p>-->
+      <!--          <div class="review-profile">-->
+      <!--            <img src="img" alt="">-->
+      <!--          </div>-->
+      <!--        </div>-->
+      <!--      </div>-->
+
+      <!--    </section>-->
+
+      <!--Footer-->
+
+      
     <!-- link to js -->
     <script src="main.js"></script>
   </body>
