@@ -4,19 +4,19 @@ const desktop = [
   {
     name: "Desktop Computer 1",
     price: 999.99,
-    image_url: "https://www.nanotek.lk/uploads/product/1147-20230529110836-pd.png",
+    image_url: "C:\wamp64\www\Computer-Shop\img\Products\desktop1.png",
     details: "High-performance desktop with the latest specifications.",
   },
   {
     name: "Desktop Computer 2",
     price: 1299.99,
-    image_url: "https://www.nanotek.lk/uploads/product/2338-20231010065135-1146-20221204040117-1892-20210407064721-df502.png",
+    image_url: "C:\wamp64\www\Computer-Shop\img\Products\desktop2.png",
     details: "Gaming desktop with dedicated graphics card and RGB lighting.",
   },
   {
     name: "Desktop Computer 3",
     price: 799.99,
-    image_url: "https://www.nanotek.lk/uploads/product/1147-20230529110836-pd.png",
+    image_url: "C:\wamp64\www\Computer-Shop\img\Products\desktop3.png",
     details: "Budget-friendly desktop for everyday tasks and productivity.",
   },
 ];
@@ -31,11 +31,32 @@ const laptop = [
   {
     name: "Laptop 2",
     price: 1499.99,
-    image_url: "https://www.nanotek.lk/product/1136",
+    image_url: "mg/Products/laptop2.png",
     details: "Gaming laptop with dedicated graphics card and RGB lighting.",
   },
   {
     name: "Laptop 3",
+    price: 899.99,
+    image_url: "https://www.nanotek.lk/product/1743",
+    details: "Budget-friendly laptop for everyday tasks and productivity.",
+  },
+];
+
+const processor = [
+  {
+    name: "intel i9",
+    price: 1299.99,
+    image_url: "img/Products/intel i9.png",
+    details: "High-performance laptop with the latest specifications.",
+  },
+  {
+    name: "intel i7",
+    price: 1499.99,
+    image_url: "https://www.nanotek.lk/product/1136",
+    details: "Gaming laptop with dedicated graphics card and RGB lighting.",
+  },
+  {
+    name: "intel i5",
     price: 899.99,
     image_url: "https://www.nanotek.lk/product/1743",
     details: "Budget-friendly laptop for everyday tasks and productivity.",
