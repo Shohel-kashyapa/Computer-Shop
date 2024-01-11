@@ -26,11 +26,29 @@
       <!-- Nav List -->
 
       <ul class="navbar">
-        <li><a href="#home" class="home-active">Home</a></li>
+        <li><a id="home" href="#home" class="home-active">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+
+         <!-- add to cart -->
+
+     <div class="shopping">
+      <i class='bx bxs-cart'></i>
+      <span class="quantity">0</span>
+     </div>
+
+     <div class="cart-list"></div>
+
+    <div class="card">
+      <h1>Card</h1>
+      <ul class="listCard"></ul>
+      <div class="checkout">
+        <div class="total">0</div>
+        <div class="closeShopping">Close</div>
+      </div>
+    </div>
 
       <!-- Profile -->
 
@@ -39,21 +57,26 @@
         <span>Login / Register</span>
         <box-icon name="caret-down"></box-icon>
       </div>
+
     </header>
+
+    
+
+    
 
     <!-- sidebar -->
 
-    <div class="sidebar">
+    <div id="sidebar-body" class="sidebar">
 
 
       <ul class="sidebar-list">
         
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="desktop-link" class="link">
               <img src="img/category/Desktop.png" alt="sidebar-iconss">
               <span class="name">Desktop</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -61,10 +84,10 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div id="laptop-link" class="link">
               <img src="img/category/laptop.png" alt="sidebar-iconss">
               <span class="name">Laptops</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -81,10 +104,10 @@
 
         <li>
           <div class="title">
-            <a href="#" class="link">
+            <div href="#" class="link">
               <img src="img/category/motherboards.png" alt="sidebar-iconss">
               <span class="name">Motherboard</span>
-            </a>
+            </div>
           </div>
 
         </li>
@@ -176,11 +199,19 @@
       </ul>
     </div>
 
+    <!-- Products Start Here -->
+
+    <div class="product-body" id="product_body"></div>
+
+    <!-- Products Finish Here -->
 
 
-      <!-- img slider -->
 
-      <div class="slider">
+     <section id="default-home">
+
+       <!-- img slider -->
+
+       <div class="slider">
         <div class="list">
           <div class="item">
             <img src="img/banner01.jpg" alt="" />
@@ -245,6 +276,8 @@
           ></a>
         </div>
       </section>
+
+     </section>
 
       <!--    &lt;!&ndash;Customer&ndash;&gt;-->
       <!--    <section class="customers" id="customers">-->
