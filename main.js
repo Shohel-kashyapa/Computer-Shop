@@ -66,9 +66,9 @@ const processor = [
     details: "Gaming laptop with dedicated graphics card and RGB lighting.",
   },
   {
-    name: "intel i5",
+    name: "AMD Ryzen5",
     price: 899.99,
-    image_url: "img/Products/intel i5.png",
+    image_url: "img/Products/amd r5.png",
     details: "Budget-friendly laptop for everyday tasks and productivity.",
   },
 ];
@@ -76,18 +76,18 @@ const processor = [
 // Motherboards
 const motherboards = [
   {
-    name: "Motherboard 1",
+    name: "NZXT Motherboard",
     price: 199.99,
     image_url: "img/products/motherboard1.png",
     details: "High-quality motherboard with advanced features.",
   },
   {
-    name: "Motherboard 2",
+    name: "ASUS Motherboard",
     price: 149.99,
     image_url: "img/products/motherboard2.png",
     details: "Budget-friendly motherboard for general use.",
   },
-  // Add more motherboard items as needed
+  
 ];
 
 // VGA (Graphics Cards)
@@ -104,7 +104,7 @@ const vga = [
     image_url: "img/products/vga2.png",
     details: "Entry-level graphics card for basic graphics needs.",
   },
-  // Add more VGA items as needed
+  
 ];
 
 // RAM
@@ -121,7 +121,7 @@ const ram = [
     image_url: "img/products/ram2.png",
     details: "Budget-friendly RAM module for everyday use.",
   },
-  // Add more RAM items as needed
+  
 ];
 
 // HDD (Hard Drives)
@@ -138,10 +138,10 @@ const hdd = [
     image_url: "img/products/hdd2.png",
     details: "Budget-friendly hard drive for basic storage needs.",
   },
-  // Add more HDD items as needed
+  
 ];
 
-// PSU (Power Supply Units)
+// PSU 
 const psu = [
   {
     name: "Power Supply Unit 1",
@@ -155,7 +155,7 @@ const psu = [
     image_url: "img/products/psu2.png",
     details: "Budget-friendly power supply unit for standard usage.",
   },
-  // Add more PSU items as needed
+  
 ];
 
 // Casing
@@ -172,7 +172,7 @@ const casing = [
     image_url: "img/products/casing2.png",
     details: "Economical casing for a basic setup.",
   },
-  // Add more casing items as needed
+  
 ];
 
 // Fan
