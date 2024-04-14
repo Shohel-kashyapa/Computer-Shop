@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a4ff99d-a3e4-4d52-8657-bf21f0e1c3bd" name="Changes" comment="update side menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.9\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2Vmi9Nfrl4re8esfGNS25jKuXWl" />
   <component name="ProjectViewState">
@@ -67,7 +67,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/wamp64/www/Computer-Shop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Computer-Shop&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -81,7 +81,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
       </set>
     </attachedChunks>
   </component>
@@ -128,6 +128,15 @@
       <workItem from="1704913738983" duration="859000" />
       <workItem from="1704914622701" duration="80000" />
       <workItem from="1704915197777" duration="41000" />
+      <workItem from="1709457569595" duration="22000" />
+      <workItem from="1712625416195" duration="203000" />
+      <workItem from="1712625629216" duration="316000" />
+      <workItem from="1712625965217" duration="357000" />
+      <workItem from="1712626338827" duration="67000" />
+      <workItem from="1713114108657" duration="165000" />
+      <workItem from="1713114281835" duration="434000" />
+      <workItem from="1713116266835" duration="18000" />
+      <workItem from="1713116348095" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="add side bar">
       <option name="closed" value="true" />

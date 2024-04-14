@@ -261,8 +261,8 @@ const chairItems = chair;
 
 function htmlSafeJSONStringify(obj) {
   return JSON.stringify(obj)
-    .replace(/"/g, '&quot;')  // Replace double quotes with HTML entity &quot;
-    .replace(/'/g, '&#39;');  // Replace single quotes with HTML entity &#39;
+    .replace(/"/g, '&quot;')  
+    .replace(/'/g, '&#39;');  
 }
 
   function loadItems(items) {

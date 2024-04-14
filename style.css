@@ -269,7 +269,7 @@ header {
   left: 0;
   top: 0;
   display: flex;
-  transition: 1s;
+  transition: 0.5s;
 }
 .slider .list img {
   width: 1300px;
